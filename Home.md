@@ -4,7 +4,7 @@
 
 The HandBrake User Manual is available at https://handbrake.fr/docs 
 
-Please be aware that the new documentation is in beta and will eventually completely replace our current Trac Wiki. 
+Please be aware that the new documentation is still in beta and parts of it are incomplete. 
 
 ## Checksums
 
