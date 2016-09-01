@@ -1,4 +1,4 @@
-This page is a mirror of the checksums for the available downloads from handbrake.fr
+This page is a mirror of the checksums for the available downloads from https://handbrake.fr/downloads.php
 
 Please take note whether the checksum is SHA-1 or MD5.
 
