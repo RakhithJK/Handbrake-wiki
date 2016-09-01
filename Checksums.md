@@ -1,6 +1,6 @@
 This page is a mirror of the checksums for the available downloads from handbrake.fr
 
-Please take note if the checksum is SHA-1 or MD5.
+Please take note whether the checksum is SHA-1 or MD5.
 
 ## Current Release
 
