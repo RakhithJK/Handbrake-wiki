@@ -1,6 +1,6 @@
 
 
-## HandBrake User Help
+## HandBrake User Manual
 
 The HandBrake User Manual is available at https://handbrake.fr/docs 
 
