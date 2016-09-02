@@ -1,8 +1,6 @@
+## HandBrake Documentation
 
-
-## HandBrake User Manual
-
-The HandBrake User Manual is available at https://handbrake.fr/docs 
+HandBrake Documentation is available at https://handbrake.fr/docs 
 
 Please be aware that the new documentation is still in beta and parts of it are incomplete. 
 
