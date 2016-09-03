@@ -1,6 +1,12 @@
 This page is a mirror of the checksums for the available downloads from https://handbrake.fr/downloads.php
+These should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues)
 
 Please take note whether the checksum is SHA-1 or MD5.
+
+## Where to Download HandBrake
+
+The only official download site for HandBrake is our main website: https://handbrake.fr/downloads.php 
+If you do download from a 3rd party site, please make sure you verify the hash is correct.
 
 ## Current Release
 
