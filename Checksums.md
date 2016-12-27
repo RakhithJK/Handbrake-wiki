@@ -1,7 +1,7 @@
 This page is a mirror of the checksums for the available downloads from https://handbrake.fr/downloads.php
 These should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues)
 
-Please take note whether the checksum is SHA-1 or MD5.
+Please take note whether the checksum is SHA-256, SHA-1 or MD5.
 
 ## Where to Download HandBrake
 
