@@ -13,7 +13,7 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 
 
 | File | Size | SHA1 | SHA256 |
-|---|---|---|
+|---|---|---|---|
 | HandBrake-1.0.0.dmg | 12.9 MB	| 2e6738133621299a2da221c6e3a181988ddc6ae2 |
 be51aa13eed29d6426e87f0111c0de2bd408214af4ba1b5d45c910ae1c626a52 |
 | HandBrakeCLI-1.0.0.dmg | 10.2 MB | f72827157e27e63faae86c50a21fd120b11e5800 |
