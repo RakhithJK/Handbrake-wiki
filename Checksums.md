@@ -14,19 +14,19 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 
 | File | Size | SHA1 / SHA256 |
 |---|---|---|
-| HandBrake-1.0.0.dmg | 12.9 MB	| 2e6738133621299a2da221c6e3a181988ddc6ae2 
+| HandBrake-1.0.0.dmg | 12.9 MB	| 2e6738133621299a2da221c6e3a181988ddc6ae2 /
 be51aa13eed29d6426e87f0111c0de2bd408214af4ba1b5d45c910ae1c626a52 |
-| HandBrakeCLI-1.0.0.dmg| 10.2 MB | f72827157e27e63faae86c50a21fd120b11e5800 
-493cfd7d8e623242120a10ba976d28008cafc0424e864a5002f83a9e695bfe9b
-| HandBrake-1.0.0-x86_64-Win_GUI.exe | 10.3 MB | d304173fe8af7ed30d89f707fd1d16c8238e03bf 
+| HandBrakeCLI-1.0.0.dmg | 10.2 MB | f72827157e27e63faae86c50a21fd120b11e5800 /
+493cfd7d8e623242120a10ba976d28008cafc0424e864a5002f83a9e695bfe9b |
+| HandBrake-1.0.0-x86_64-Win_GUI.exe | 10.3 MB | d304173fe8af7ed30d89f707fd1d16c8238e03bf /
 6a3381b383b2e318fdf94b82130c5c9df570d6266084ada1af48ef2d35b6de92 |
-| HandBrake-1.0.0-x86_64-Win_CLI.zip | 11.9 MB | af9baf7b55e6c0982579a6c50c32739b022deef8 
+| HandBrake-1.0.0-x86_64-Win_CLI.zip | 11.9 MB | af9baf7b55e6c0982579a6c50c32739b022deef8 /
 b0e6ef7b2174641c4087fc874d90dac836c42554c8ea72d79230098571c7f56d |
-| HandBrake-1.0.0-i686-Win_GUI.exe | 9.9 MB | 2896fe0e3c8516f44cf88b37650bc0c27207a88f 
-0a408219c0d86aa25ac895b95c8fe8009d1f6ca5b7c21d340b20db1f8e66817c
-| HandBrake-1.0.0-i686-Win_CLI.zip | 11.2 MB | 845281a668ffae2c3a0b1b313ae6c3336efded3e 
+| HandBrake-1.0.0-i686-Win_GUI.exe | 9.9 MB | 2896fe0e3c8516f44cf88b37650bc0c27207a88f /
+0a408219c0d86aa25ac895b95c8fe8009d1f6ca5b7c21d340b20db1f8e66817c |
+| HandBrake-1.0.0-i686-Win_CLI.zip | 11.2 MB | 845281a668ffae2c3a0b1b313ae6c3336efded3e /
 0d8d7f27f8590453801f8fcfd54a08832bd85a5f70587ce14c76da160cc0ada2 |
-| HandBrake-1.0.0.tar.bz2 | 12.3 MB | 7f8f03ea5731059d2b0aa93e9b6d939a5f261eed 
+| HandBrake-1.0.0.tar.bz2 | 12.3 MB | 7f8f03ea5731059d2b0aa93e9b6d939a5f261eed /
 15fb4593c70d75621212e4499f018c3c93d7ce39f1083bf527d4616ded0044c5 |
 
 
