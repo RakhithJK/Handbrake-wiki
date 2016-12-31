@@ -1,4 +1,4 @@
-This page is a mirror of the checksums for available downloads at https://handbrake.fr/downloads.php. These checksums should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues).
+This page mirrors the checksums for official HandBrake downloads on https://handbrake.fr. Checksums should always match those listed on https://handbrake.fr/checksums.php. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues).
 
 ## Where to Download HandBrake
 
