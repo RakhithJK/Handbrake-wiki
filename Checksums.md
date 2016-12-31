@@ -1,17 +1,27 @@
-This page is a mirror of the checksums for the available downloads from https://handbrake.fr/downloads.php
-These should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues)
-
-Please take note whether the checksum is SHA-256, SHA-1 or MD5.
+This page is a mirror of the checksums for available downloads on https://handbrake.fr/downloads.php. These checksums should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues).
 
 ## Where to Download HandBrake
 
 The only official download site for HandBrake is our main website: https://handbrake.fr/downloads.php 
 
-If you do download from a 3rd party site, please make sure you verify the hash is correct.
+If you download from a third-party site, please make sure you verify the hash is correct.
+
+## Validating checksums
+
+The following instructions have been tested on macOS and Ubuntu Linux, and assume you have downloaded the files to the `Downloads` folder in your home directory.
+
+Open a terminal (`/Applications/Terminal.app` on macOS) and run the following commands:
+
+```
+cd ~/Downloads
+shasum -a 1 HandBrake-* && shasum -a 256 HandBrake-*
+```
+
+The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ## Current Release
 
-### Version (1.0.0)
+### Version (1.0.1)
 
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
