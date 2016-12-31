@@ -19,7 +19,7 @@ shasum -a 1 HandBrake-* && shasum -a 256 HandBrake-*
 
 The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
-**If the hashes for any file do not match those listed here and on our website, the file may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
+**If the hashes for any files do not match those listed here and on our website, the files may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
 
 ## Current Release
 
