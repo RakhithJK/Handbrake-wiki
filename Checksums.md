@@ -1,10 +1,10 @@
-This page is a mirror of the checksums for available downloads on https://handbrake.fr/downloads.php. These checksums should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues).
+This page is a mirror of the checksums for available downloads at https://handbrake.fr/downloads.php. These checksums should always match our main website. If there is a discrepancy, please make us aware by raising an [Issue](https://github.com/HandBrake/HandBrake/issues).
 
 ## Where to Download HandBrake
 
 The only official download site for HandBrake is our main website: https://handbrake.fr/downloads.php 
 
-If you download from a third-party site, please make sure you verify the hash is correct.
+We recommend you verify the hashes for any files you download match those listed here, *especially* if you choose to download from a third-party site.
 
 ## Validating checksums
 
@@ -18,6 +18,8 @@ shasum -a 1 HandBrake-* && shasum -a 256 HandBrake-*
 ```
 
 The SHA1 for each file will be printed, followed by the SHA256 for each file.
+
+**If the hashes for any file do not match those listed here and on our website, the file may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
 
 ## Current Release
 
