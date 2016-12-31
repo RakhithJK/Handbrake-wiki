@@ -11,8 +11,23 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 
 ## Current Release
 
+### Version (1.0.0)
+
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.0.1-i686-Win_GUI.exe | 9.71 | a0dd0cb03dc16c3af208d566393f2d4e10b566c3 | 7eb4bf518537783128d64a78d6a2fc116fb7bc16b431e759da41a3dc83efca69 |
+| HandBrake-1.0.1-x86_64-Win_GUI.exe | 10.07 | 478b444e6707fb83a849fa4946becd01a6a03dcf | 1d4abe165716a1f022132d8addd185417b2d51eb70eeb4c5a7f19ad02a95712d |
+| HandBrake-1.0.1.dmg | 12.64 | 31467599b070b54127f20f8964644c4afd4be564 | 27f936ef028c9d20ee5da2b23c7352968c98226274ca43f3bc1571cf71820673 |
+| HandBrake-1.0.1.tar.bz2 | 12.01 | 5edc6c4da45cd22161d98174ff68555e696b7cd7 | af4badcdf56465abc798e5e11fe0e437e23ea89bbee20798408980a34c4d5876 |
+| HandBrakeCLI-1.0.1-win-i686.zip | 10.93 | f7d6e265d6efd33ab5580ce2573b88f30cebda9f | 61b1c44aaeb2f76d44fa705f2ae8fc019ade0e9e92bc4235588bd652c5439013 |
+| HandBrakeCLI-1.0.1-win-x86_64.zip | 11.67 | 81ac5c90f791105fdf753c7d77af26f65841cea0 | caf785506cbdf44996543c4df958869617d6744239a974f54861bc6e87e51171 |
+| HandBrakeCLI-1.0.1.dmg | 10.05 | 6b1cb69990257926214ebe7520b65d9f49b34a3b | 045d884749480fbc8ed57a4ada7114a78d8352997eb391be09d69f770c73ab91 |
+
+
+## Previous Releases
 
 ### Version (1.0.0)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.0.0-i686-Win_GUI.exe | 9.71 | 2896fe0e3c8516f44cf88b37650bc0c27207a88f | 0a408219c0d86aa25ac895b95c8fe8009d1f6ca5b7c21d340b20db1f8e66817c |
@@ -23,11 +38,8 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 | HandBrakeCLI-1.0.0-win-x86_64.zip | 11.67 | af9baf7b55e6c0982579a6c50c32739b022deef8 | b0e6ef7b2174641c4087fc874d90dac836c42554c8ea72d79230098571c7f56d |
 | HandBrakeCLI-1.0.0.dmg | 10.05 | f72827157e27e63faae86c50a21fd120b11e5800 | 493cfd7d8e623242120a10ba976d28008cafc0424e864a5002f83a9e695bfe9b |
 
-
-## Previous Releases
-
-
 ### Version (0.10.5)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-0.10.5-i686-Win_CLI.zip | 8.76 | 7d66daf8a5b3208854e5a490ecefaf12f54e33ba | 087dcf8be360ae68be112c1bb03b05c49359f44ed2206e0578e6254bf004a640 |
@@ -38,9 +50,8 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 | HandBrake-0.10.5-x86_64-Win_GUI-1.exe | 15.75 | 1cc2fff081e79ba7c4ce98bbe52919203d16d567 | c823c89acc4a3688eda9ccdd769147be61bcadbcbe08e35cb6212d322d38c584 |
 | HandBrake-0.10.5.tar.bz2 | 9.97 | 3685e3f216468c9c5627b794a79cda96d6913caf | fb9230dd121b456f6829d1d25ac8bbf76e503b51c4efc70f0a7fd2bb8607e2f0 |
 
-
-
 ### Version (0.10.3)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-0.10.3-i686-Win_CLI.zip | 9.12 | df0848939bcf2381ef49bdf338c0dfc1ab3fb26d | 6f703f1af309fd5abd09738e08ee9f1c0686f26632c2abbc0f4f26f1b8ed5ec1 |
@@ -51,9 +62,8 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 | HandBrake-0.10.3-x86_64-Win_GUI.exe | 16.45 | af993c65ee0be6820212187482745154dee50df8 | 3fe6f3b3004e733a1e7be2cd1243304eb1d91da805d3482799071c2b6aafa68a |
 | HandBrake-0.10.3.tar.bz2 | 9.97 | 357eb86575b06069c303d35d386094e8bce5560c | 57144fa929382ba8dc0e32ccdb53b4c79f7baf83df0fc8a4c03eccba2d6aea87 |
 
-
-
 ### Version (0.10.2)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-0.10.2-i686-Win_CLI.zip | 9.05 | 7912de9fa74be269ccf4e2a15f078e8bd74c6d2e | 4d81eadb15cf1522645d4870e77bb9fb62d0d30ab5205861907126dcd43dbb7a |
@@ -64,9 +74,8 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 | HandBrake-0.10.2-x86_64-Win_GUI.exe | 16.19 | b221858b745331178fcaf770c99182c17f4e2fa3 | f5b6dfdf5bc39b426b54e37907d4debaeacccfcd62b84e7b0d15acd849a8648f |
 | HandBrake-0.10.2.tar.bz2 | 9.96 | 857c1c0c274f086424ce7863940c5ee0fd065c40 | 4cc3828393b26a982dbe00febd700c5090d3443c1d45492e0b373e02da73c699 |
 
-
-
 ### Version (0.10.1)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-0.10.1-i686-Win_CLI.zip | 8.97 | 306d470b99c1b4389cb20b7d29436ad6f0b8cd71 | 03931772bde4d315f8a956ac0cab27508f88b75b1ce32a7a94484dd9a67cde98 |
@@ -77,9 +86,8 @@ If you do download from a 3rd party site, please make sure you verify the hash i
 | HandBrake-0.10.1-x86_64-Win_GUI.exe | 15.98 | 265c287a6ea62b4838cde8e34f60ce74b1dd9d8b | 44ae8961c7c3a7fc1e7a1f389255c7874d591b683e55af50af2c7eee9ff914d2 |
 | HandBrake-0.10.1.tar.bz2 | 9.96 | f5dbd665b39b6390ad1040d93898cd6d85ef6978 | 7ea42031fd4d5efd04903a9aae79c952c50fd43b6f7bf08fd1a93f6b358a23f5 |
 
-
-
 ### Version (0.10.0)
+
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-0.10.0-i686-Win_CLI.zip | 8.96 | bc3761228c74d53936dae299f6ca3f2440d9b55d | 09eb0dd5250c8f4598d7a44975d1808c0978f125f92a76267a8e5189203a4159 |
