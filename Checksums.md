@@ -10,7 +10,7 @@ We recommend you verify the hashes for any files you download match those listed
 
 The following instructions have been tested on macOS and Ubuntu Linux, and assume you have downloaded the files to the `Downloads` folder in your home directory.
 
-Open a terminal (`/Applications/Terminal.app` on macOS) and run the following commands:
+Open a terminal (`/Applications/Utilities/Terminal.app` on macOS) and run the following commands:
 
 ```
 cd ~/Downloads
