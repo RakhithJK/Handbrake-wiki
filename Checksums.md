@@ -23,6 +23,21 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ## Current Release
 
+### Version (1.0.2)
+
+BOMDAS| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.0.2-i686-Win_GUI.exe | 9.71 | 564fec517f67d51acc9db720663c6a2204fe138a | a7784f56ef28195930cdcc58b9b488c2379ba60bc57eb46a56271b12efed2b28 |
+| HandBrake-1.0.2-x86_64-Win_GUI.exe | 10.07 | f4ad7da61ce8c41d916c4c54e3c4e5bba6557c8d | 41a174c78842917fd7a7481759b9bb31ed50894f9db3487426d1cee28b8c8d49 |
+| HandBrake-1.0.2.dmg | 12.64 | d2607a6ef3b995767aa7496d5a93d0acf5bf0246 | f433d50e180f8a8ffc74422c2967c273d71bbc304987b26927eb87ef043e1a93 |
+| HandBrake-1.0.2.tar.bz2 | 12.01 | f5d74276699051026ab920c29dd5077f9f16a3c3 | 18e4563cc150309df03f7e73462b823ba2eca61644a7a536c9930611f3f9aa1e |
+| HandBrakeCLI-1.0.2-win-i686.zip | 10.93 | 2850cd3d76a3db3c3f01eb61502924ec084d3a5f | 7e40cc61ac1537b60ba214bce3c83d36062b4edc1292854028e7873963efd908 |
+| HandBrakeCLI-1.0.2.dmg | 10.05 | 165da874447e5c67618e0086c9f7486934e00406 | 0b5c0646a6858fb3fae66b584cae133b1526f0514ada794c4bd109de66b431b0 |
+| HandBrakeCLI-1.0.2-win-x86_64.zip | 11.67 | 88e026d8e67791f666801f5e8b2300abc34c4b03 | 419393cc99da1a0167b620b8705dddfce0c50f3f56900c45afc302806e1e032d |
+
+
+## Previous Releases
+
 ### Version (1.0.1)
 
 | File | Size | SHA1 | SHA256 |
@@ -35,8 +50,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrakeCLI-1.0.1-win-x86_64.zip | 11.67 | 81ac5c90f791105fdf753c7d77af26f65841cea0 | caf785506cbdf44996543c4df958869617d6744239a974f54861bc6e87e51171 |
 | HandBrakeCLI-1.0.1.dmg | 10.05 | 6b1cb69990257926214ebe7520b65d9f49b34a3b | 045d884749480fbc8ed57a4ada7114a78d8352997eb391be09d69f770c73ab91 |
 
-
-## Previous Releases
 
 ### Version (1.0.0)
 
