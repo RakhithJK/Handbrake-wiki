@@ -25,7 +25,7 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ### Version (1.0.2)
 
-BOMDAS| File | Size | SHA1 | SHA256 |
+| File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.0.2-i686-Win_GUI.exe | 9.71 | 564fec517f67d51acc9db720663c6a2204fe138a | a7784f56ef28195930cdcc58b9b488c2379ba60bc57eb46a56271b12efed2b28 |
 | HandBrake-1.0.2-x86_64-Win_GUI.exe | 10.07 | f4ad7da61ce8c41d916c4c54e3c4e5bba6557c8d | 41a174c78842917fd7a7481759b9bb31ed50894f9db3487426d1cee28b8c8d49 |
