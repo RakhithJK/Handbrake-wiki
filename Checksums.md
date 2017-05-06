@@ -32,8 +32,8 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrake-1.0.7.dmg | 12.71 | 6d2e5158f101dad94ede3d5cf5fda8fe9fd3c3b9  | 3cd2e6228da211349574dcd44a0f67a3c76e5bd54ba8ad61070c21b852ef89e2 |
 | HandBrake-1.0.7.tar.bz2 | 12.36 | fb5907840c0688e0692f092ecc592af8a6fa7e55  | ffdee112f0288f0146b965107956cd718408406b75db71c44d2188f5296e677f |
 | HandBrakeCLI-1.0.7-win-i686.zip | 11.08 | bdcb588c00d5dea5efdd058fc69658a58788e5eb | 152046b12d17c576d68eedecf5231001fafbc660c27ce52075b7a48d8ca91c8a |
-| HandBrakeCLI-1.0.7.dmg | 10.07 | e0f3deb227aeec128cf9414dd12f84fec8926374 | b00c00520705e05bfb42701b4121de8e56c9c283af2b30d42ce10b24823519e0 |
-| HandBrakeCLI-1.0.7-win-x86_64.zip | 11.81 | 75c6204d7bd7d9c6e5b1fedb56697ae2f3857789 | 9c954eb29eeea863b3b330bcf72c9fc31af8e115dad7f83858af5b843a0f9c11 |
+| HandBrakeCLI-1.0.7.dmg | 10.07 | 75c6204d7bd7d9c6e5b1fedb56697ae2f3857789 | 9c954eb29eeea863b3b330bcf72c9fc31af8e115dad7f83858af5b843a0f9c11 |
+| HandBrakeCLI-1.0.7-win-x86_64.zip | 11.81 | e0f3deb227aeec128cf9414dd12f84fec8926374 | b00c00520705e05bfb42701b4121de8e56c9c283af2b30d42ce10b24823519e0 |
 
 ## Previous Releases
 
@@ -223,5 +223,4 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrake-0.9.4-Win_CLI.zip | 5.61 | 3f42256473fc561d31523a1221f189bf398ccd49 | f365d6ce8003de6dbb60e18cf36ff3e7e35b57ce4d15853f8a1383f9721a8c98 |
 | HandBrake-0.9.4-Win_GUI.exe | 4.66 | d5e800b29b7845f679554fb3d47650d9c3ed031b | 994f02c5de5c1ddbaf7eb042a7fdf395db2cdeb1cf2ba1974d02ef1bcde7e773 |
 | HandBrake-0.9.4.tar.bz2 | 1.7 | 91329a83315b7eae0b2b3731a8bf0f2de2a6eb4d | 706b03db4e39446dc47eee2eee298d4aaa3ebd925130e8a84fdc903f231300ee |
-
 
