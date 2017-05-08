@@ -4,7 +4,7 @@ Our GPG public key used to sign binaries is as follows:
 
 ### ID: 4E4A8645.asc
 
-`-----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFkQpw8BEADpPeQ2xW4rVObYATTXCWGA4nHmaHkDzWMqrHRXspx80KL2Lv/8
 dJgbtYVzldIExKJnxOkielDRH+pLx+B9wHXcaX/ZA++vhz74tcwk9iXiGgKE1bZa
@@ -55,10 +55,12 @@ N9R0KA2Tau8RgIr14e9ws1i/NylW7z/CXMtxGiWwegWJxl5ZcVKm/3e/Nh4Am0PJ
 TalAuh1G9VxHGQR88NntjQOK
 =2vLY
 -----END PGP PUBLIC KEY BLOCK-----
-`
+
+
 ## Verify your download:
 
 Run the command:
+
 ` gpg --verify  filename.xyx.sig`
 
 where filename is the sig file for the downloaded HandBrake binary.
