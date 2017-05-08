@@ -66,3 +66,6 @@ Run the command:
 where filename is the sig file for the downloaded HandBrake binary.
 
 The ID should be "HandBrake Team" with the ID listed above.
+
+
+Signature files are available on the Releases page: https://github.com/HandBrake/HandBrake/releases and will shortly be mirrored on the main website.
