@@ -69,3 +69,9 @@ The ID should be "HandBrake Team" with the ID listed above.
 
 
 Signature files are available on the Releases page: https://github.com/HandBrake/HandBrake/releases and will shortly be mirrored on the main website.
+
+## GPG tools
+You may not have gpg tools installed on your system. You can find these at the following links.
+
+For Mac: https://gpgtools.org/
+For Windows: https://www.gpg4win.org/
