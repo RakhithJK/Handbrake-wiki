@@ -2,7 +2,7 @@
 
 Our GPG public key used to sign binaries is as follows:
 
-### ID: 4E4A8645.asc
+### Public Key
 
 `-----BEGIN PGP PUBLIC KEY BLOCK-----`
 
