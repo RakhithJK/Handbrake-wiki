@@ -64,8 +64,8 @@ TalAuh1G9VxHGQR88NntjQOK
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-Signature files are available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page and will shortly be mirrored on the main website.
+Save the key (copy and paste) to a new raw text file called `handbrake.gpg`. Then import the key to GPG by running the command `gpg --import handbrake.gpg` or `gpg2 --import handbrake.gpg`.
 
-To verify your download, run the command `gpg --verify signature-file` or `gpg2 --verify signature-file`, where signature-file is the `.sig` file for the download.
+Download a HandBrake release binary and its associated GPG signature file (`.sig`) available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page. Verify your download by running the command `gpg --verify signature-file` or `gpg2 --verify signature-file`, where signature-file is the `.sig` file for the download.
 
 If the downloaded file is valid, GPG will report `gpg: Good signature from "HandBrake Team <developers@handbrake.fr>"`.
