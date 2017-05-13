@@ -1,6 +1,14 @@
-# GPG Public Key
+# About GPG
 
-The HandBrake Team's GPG public key used to sign binaries is as follows.
+The HandBrake Team cryptographically signs its binary releases using GPG. You can use GPG to verify that the files you download come from us.
+
+## GPG tools
+
+For Mac: https://gpgtools.org/
+
+For Windows: https://www.gpg4win.org/
+
+## HandBrake Team GPG public key
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -61,9 +69,3 @@ Signature files are available on the [Releases](https://github.com/HandBrake/Han
 To verify your download, run the command `gpg --verify signature-file` or `gpg2 --verify signature-file`, where signature-file is the `.sig` file for the download.
 
 If the downloaded file is valid, GPG will report `gpg: Good signature from "HandBrake Team <developers@handbrake.fr>"`.
-
-## GPG tools
-
-For Mac: https://gpgtools.org/
-
-For Windows: https://www.gpg4win.org/
