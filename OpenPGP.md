@@ -68,6 +68,16 @@ TalAuh1G9VxHGQR88NntjQOK
 
 Save the key (copy and paste) to a new raw text file called `handbrake.gpg`. You may then import the key using your OpenPGP-compatible software's graphical interface, if available. Otherwise, use your terminal application to import the key to GPG (see tools section above) by running the command `gpg --import handbrake.gpg || gpg2 --import handbrake.gpg`.
 
+You can print the imported key's fingerprint and unique id by running `gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake`
+
+```
+$ gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake
+pub   rsa4096 2017-05-08 [SC] [expires: 2021-05-08]
+      1629 C061 B3DD E7EB 4AE3  4B81 021D B8B4 4E4A 8645
+uid           [ unknown] HandBrake Team <developers@handbrake.fr>
+sub   rsa4096 2017-05-08 [E] [expires: 2021-05-08]
+```
+
 ## Verifying downloaded files
 
 First download the signature file (`.sig`) that matches your HandBrake download. Signatures are available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page.
