@@ -66,7 +66,7 @@ TalAuh1G9VxHGQR88NntjQOK
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-Save the key (copy and paste) to a new raw text file called `handbrake.gpg`. You may then import the key using your OpenPGP-compatible software's graphical interface, if available. Otherwise, use your terminal application to import the key to GPG (see tools section above) by running the command `gpg --import handbrake.gpg || gpg2 --import handbrake.gpg`.
+Save the key (copy and paste) to a new raw text file called `handbrake.gpg`. You may then import the key using your OpenPGP-compatible software's graphical interface, if available. Otherwise, use your terminal application to import the key to GPG (see tools section above) by running the command `gpg2 --import handbrake.gpg || gpg --import handbrake.gpg`.
 
 You can print the imported key's fingerprint and unique id by running `gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake`
 
@@ -82,6 +82,6 @@ sub   rsa4096 2017-05-08 [E] [expires: 2021-05-08]
 
 First download the signature file (`.sig`) that matches your HandBrake download. Signatures are available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page.
 
-Verify using your terminal application to run the command `gpg --verify signature-file || gpg2 --verify signature-file`, replacing "signature-file" with the path to the appropriate `.sig` file.
+Verify using your terminal application to run the command `gpg2 --verify signature-file || gpg --verify signature-file`, replacing "signature-file" with the path to the appropriate `.sig` file.
 
 If the downloaded file is valid, GPG will report `gpg: Good signature from "HandBrake Team <developers@handbrake.fr>"`.
