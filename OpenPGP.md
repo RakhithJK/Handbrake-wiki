@@ -1,5 +1,7 @@
 # About OpenPGP
 
+This page is mirrored on our [main website.](https://handbrake.fr/openpgp.php)
+
 The HandBrake Team cryptographically signs its downloads using the [OpenPGP](http://openpgp.org) standard. You can use OpenPGP tools to verify that the files you download come from us.
 
 ## OpenPGP tools
