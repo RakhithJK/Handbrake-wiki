@@ -93,7 +93,9 @@ If the downloaded file is valid, GPG will report `gpg: Good signature from "Hand
 
 Keys used by individual persons on the HandBrake Team to sign commits.
 
-### Bradley S
+![](https://user-images.githubusercontent.com/70239/27506980-7cd97d52-5893-11e7-8e04-495b1cc0805f.png)
+
+### Bradley Sepos
 
 Key ID used for signing: DEADE2F57D42D9C7
 
