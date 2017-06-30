@@ -107,7 +107,7 @@ TalAuh1G9VxHGQR88NntjQOK
 -----END PGP PUBLIC KEY BLOCK-----</pre></code>
 </details>
 
-## HandBrake Team personal signing keys
+## Personal signing keys
 
 Keys used by individual persons on the HandBrake Team to sign commits.
 
