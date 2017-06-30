@@ -10,9 +10,47 @@ For Mac: https://gpgtools.org/
 
 For Windows: https://www.gpg4win.org/
 
+Multi-platform CLI: https://www.gnupg.org/download/#binary
+
 Additional tools may be found at http://openpgp.org/software.
 
-## HandBrake Team OpenPGP public key
+## Importing keys
+
+*This example uses the [HandBrake Team release signing key available below](https://github.com/HandBrake/HandBrake/wiki/OpenPGP#handbrake-team-release-signing-key).*
+
+Save the key (copy and paste) to a new raw text file called `handbrake.gpg`.
+
+### Graphical interface
+
+You may import the key using your OpenPGP-compatible software's graphical interface, if available. Consult the manual for your specific software for instructions.
+
+### Command line interface
+
+*This example uses the command line tools provided by GnuPG. Other OpenPGP-compatible software may provide these tools as well.*
+
+Use your terminal application to import the key to your GPG keyring by running the command `gpg2 --import handbrake.gpg || gpg --import handbrake.gpg`.
+
+You can print the imported key's fingerprint and unique id by running `gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake`
+
+```
+$ gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake
+pub   rsa4096 2017-05-08 [SC] [expires: 2021-05-08]
+      1629 C061 B3DD E7EB 4AE3  4B81 021D B8B4 4E4A 8645
+uid           [ unknown] HandBrake Team <developers@handbrake.fr>
+sub   rsa4096 2017-05-08 [E] [expires: 2021-05-08]
+```
+
+## Verifying downloaded files using the command line
+
+Download the signature file (`.sig`) that matches the official HandBrake release download you wish to verify. Signatures are available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page.
+
+Use your terminal application to verify the release by running the command `gpg2 --verify signature-file || gpg --verify signature-file`, replacing "signature-file" with the path to the appropriate `.sig` file.
+
+If the downloaded file is valid, GPG will report `gpg: Good signature from "HandBrake Team <developers@handbrake.fr>"`.
+
+## HandBrake Team release signing key
+
+Key used by the HandBrake Team to sign official releases.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -67,27 +105,6 @@ TalAuh1G9VxHGQR88NntjQOK
 =2vLY
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-Save the key (copy and paste) to a new raw text file called `handbrake.gpg`. You may then import the key using your OpenPGP-compatible software's graphical interface, if available. Otherwise, use your terminal application to import the key to GPG (see tools section above) by running the command `gpg2 --import handbrake.gpg || gpg --import handbrake.gpg`.
-
-You can print the imported key's fingerprint and unique id by running `gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake`
-
-```
-$ gpg2 --fingerprint HandBrake || gpg --fingerprint HandBrake
-pub   rsa4096 2017-05-08 [SC] [expires: 2021-05-08]
-      1629 C061 B3DD E7EB 4AE3  4B81 021D B8B4 4E4A 8645
-uid           [ unknown] HandBrake Team <developers@handbrake.fr>
-sub   rsa4096 2017-05-08 [E] [expires: 2021-05-08]
-```
-
-## Verifying downloaded files
-
-First download the signature file (`.sig`) that matches your HandBrake download. Signatures are available on the [Releases](https://github.com/HandBrake/HandBrake/releases) page.
-
-Verify using your terminal application to run the command `gpg2 --verify signature-file || gpg --verify signature-file`, replacing "signature-file" with the path to the appropriate `.sig` file.
-
-If the downloaded file is valid, GPG will report `gpg: Good signature from "HandBrake Team <developers@handbrake.fr>"`.
-
 
 ## HandBrake Team personal signing keys
 
