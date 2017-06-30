@@ -56,7 +56,7 @@ Key used by the HandBrake Team to sign official releases.
     <summary>Reveal key</summary>
     <p>
 <!-- -->
-```
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFkQpw8BEADpPeQ2xW4rVObYATTXCWGA4nHmaHkDzWMqrHRXspx80KL2Lv/8
@@ -108,7 +108,7 @@ N9R0KA2Tau8RgIr14e9ws1i/NylW7z/CXMtxGiWwegWJxl5ZcVKm/3e/Nh4Am0PJ
 TalAuh1G9VxHGQR88NntjQOK
 =2vLY
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</code></pre>
 </p></details>
 
 ## Personal signing keys
@@ -125,7 +125,7 @@ Key ID used for signing: DEADE2F57D42D9C7
     <summary>Reveal key</summary>
     <p>
 <!-- -->
-```
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFlN9oYBEAC2WrDb+u86bQAWfpyidcq9TUJr5dwDLFTjcjPRS9uAqNuDEZzW
@@ -487,5 +487,5 @@ ec7AVJdv8q6VrZ9JYNMXtUNEYY7T7TTB1CBEsG2ZMVaDXqMJvINPFuihbjuZ/6aN
 mEr7FUixjqIviKZdhpoPTDvAYqp5YOkT9HaikiWaj9ZD
 =wHJg
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</code></pre>
 </p></details>
