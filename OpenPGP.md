@@ -6,11 +6,11 @@ The HandBrake Team cryptographically signs its downloads using the [OpenPGP](htt
 
 ## OpenPGP tools
 
-For Mac: https://gpgtools.org/
+For Mac: [GPGTools GPG Suite](https://gpgtools.org/)
 
-For Windows: https://www.gpg4win.org/
+For Windows: [Gpg4win](https://www.gpg4win.org/)
 
-Multi-platform CLI: https://www.gnupg.org/download/#binary
+Multi-platform CLI: [GnuPG](https://www.gnupg.org/download/#binary)
 
 Additional tools may be found at http://openpgp.org/software.
 
