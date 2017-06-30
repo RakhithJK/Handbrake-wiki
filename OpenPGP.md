@@ -53,8 +53,8 @@ If the downloaded file is valid, GPG will report `gpg: Good signature from "Hand
 Key used by the HandBrake Team to sign official releases.
 
 <details>
-    <summary>Reveal key</summary>
-```
+<summary>Reveal key</summary>
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFkQpw8BEADpPeQ2xW4rVObYATTXCWGA4nHmaHkDzWMqrHRXspx80KL2Lv/8
@@ -106,7 +106,7 @@ N9R0KA2Tau8RgIr14e9ws1i/NylW7z/CXMtxGiWwegWJxl5ZcVKm/3e/Nh4Am0PJ
 TalAuh1G9VxHGQR88NntjQOK
 =2vLY
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</pre></code>
 </details>
 
 ## HandBrake Team personal signing keys
