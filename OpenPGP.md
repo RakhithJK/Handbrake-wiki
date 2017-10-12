@@ -50,7 +50,7 @@ If the downloaded file is valid, GPG will report `gpg: Good signature from "Hand
 
 ## HandBrake Team release signing key
 
-Key used by the HandBrake Team to sign official releases.
+Key used by the HandBrake Team to sign official [Releases](https://github.com/HandBrake/HandBrake/releases).
 
 <details>
 <summary>Reveal key</summary>
