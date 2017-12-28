@@ -1,5 +1,3 @@
-# HandBrake
-
 This wiki is a supplement to and not a replacement for the [HandBrake website](https://handbrake.fr). From time to time we may mirror certain content where beneficial.
 
 ## Documentation
