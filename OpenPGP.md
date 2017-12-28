@@ -483,8 +483,8 @@ mEr7FUixjqIviKZdhpoPTDvAYqp5YOkT9HaikiWaj9ZD
 </details>
 
 
-### Scott (s55)
-Key ID used for signing: 9A3E21A5
+### Scott (sr55)
+Key ID used for signing: DC68C9CE6FEC775F
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
