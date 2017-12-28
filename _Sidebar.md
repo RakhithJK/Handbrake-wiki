@@ -1,1 +1,0 @@
-[HandBrake Documentation](https://handbrake.fr/docs)
