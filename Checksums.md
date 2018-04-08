@@ -27,7 +27,7 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.1.0-source.tar.bz2 | 14.56 | b73a53b50b2c18709e570725e21557e49d8f5756 | a02e7c6f8bd8dc28eea4623663deb5971dcbca1ad59da9eb74aceb481d8c40da |
-| HandBrake-1.1.0-x86_64-Win_GUI.exe.exe | 11.15 | c570e7c892074158d72a8e767bbff2268c58e7ea | 9cf7c0813f91e16218eb770f834380cad0d1641d93ba93926702562bd9d2eece |
+| HandBrake-1.1.0-x86_64-Win_GUI.exe| 11.15 | c570e7c892074158d72a8e767bbff2268c58e7ea | 9cf7c0813f91e16218eb770f834380cad0d1641d93ba93926702562bd9d2eece |
 | HandBrake-1.1.0.dmg | 16.12 | 426d3cebfecca28387f77b86a09a6bf0c1776b52 | d2457954cab59a7bbc58f0c12a2b03e262f6d2eb5e7b43960ab04e87531b1e33 |
 | HandBrakeCLI-1.1.0-win-x86_64.zip | 14.87 | 64ed4eb931cd4657b2273cb739fbfee502489b80 | 8a8b5370f4c0f397b5bc7ff626c29e68bcaf48993819044b2082f7c6632f74ff |
 | HandBrakeCLI-1.1.0.dmg | 12.89 | 41625833e4ee0307373e384a33d4273f96212c52 | 006945a4cd98de2b227a9db0aa25107379c60404a4d3da06f98360c505f21715 |
