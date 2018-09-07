@@ -23,6 +23,23 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ## Current Release
 
+### Version (1.1.2)
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.1.2-source.tar.bz2 | 14.58 | 423cabfc36cd53b47e273b44bed339d4466267fc | ba9a4a90a7657720f04e4ba0a2880ed055be3bd855e99c0c13af944c3904de2e |
+| HandBrake-1.1.2-x86_64-Win_GUI.exe | 11.18 | a14cd428cd2b7168461c0607489a85f9375ed4c7 | f4cce05a18402d9dfa768529cabac2dd721b733cb0d631b940125d6a94bf1a0e |
+| HandBrake-1.1.2-x86_64-Win_GUI.zip | 15.97 | 74750d82a65e6d7b68d3bae4bd7b12723cd30f4c | ded98899ee3a9bbf648040ee5064e70de9582c374cf3cb52c6fdbd6f2f67c5c2 |
+| HandBrake-1.1.2-x86_64.flatpak | 18.15 | a7e77fa18e13ca37ab6d5408f224f7a3a577051b | 801f8ed6c5149bcf8619a169b6c612e8a5bd27aa4a8d05d4f62c7973aa3d3fcc |
+| HandBrake-1.1.2.dmg | 16.29 | ee509ca285de0cb6aa5e9535f602e0972517ac3b | 181feb443687d84b15cc8da7cc43183fb1b88a62c8b4476cf77b948a6406b368 |
+| HandBrakeCLI-1.1.2-win-x86_64.zip | 14.89 | 6b471a56a2c5c36a28f88a34f72871e29fa468c0 | 8b275a6584a3a2d01244d4c372bf002ed6a9fc86189dbc18ff7a3204851c4fcd |
+| HandBrakeCLI-1.1.2-x86_64.flatpak | 6.88 | c8a43379914599283e28583b143cf9e82ab5a9a0 | 45a00f7480a8611886402f7f87fb5552cf33046d517f36756ff8342b4b4ddae5 |
+| HandBrakeCLI-1.1.2.dmg | 13.01 | 713ba5ce63bfcc29ea8ee22b16ada2c9d750d529 | 0251e0824bb0c24726012ced40be4271d7af0494322997de6a3f6fcb257a3d00 |
+| LibHB-1.1.2-win-x86_64.zip | 15.16 | 8db6fccc4cb81e37112366e5e4014e2c986ecda1 | 63b5876e843604926178829cfa8e2c9d0c6172022e314baa04e4362a45761423 |
+
+
+## Previous Releases
+
+### Version (1.1.1)
 | File                               | Size (MB) | SHA1                                     | SHA256                                                           |
 |------------------------------------|------|------------------------------------------|------------------------------------------------------------------|
 | HandBrake-1.1.1-source.tar.bz2     | 15.3 | 4382f6cd053ea596cf7634f78550e605a574b34b | e3390c5fd901fb06d72e29c62a63d373d5fb5b3467295d114d815ae7b78a9d7a |
@@ -36,7 +53,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | LibHB-1.1.1-win-x86_64.zip         | 15.8 | 550ec59b07692e3c6e3eff541a7110cdeacffaa2 | 72586788fe53d783059b3a93f8051f8abf828756e2113fe89b30500d4eb2cd03 |
 
 
-## Previous Releases
 
 ### Version (1.1.0)
 | File | Size | SHA1 | SHA256 |
