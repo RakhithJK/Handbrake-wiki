@@ -23,6 +23,21 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ## Current Release
 
+### Version (1.2.0)
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.2.0-source.tar.bz2 | 17.04 | 1abdb80bbefab23bdad78d7081cc24e71926fb35 | 113b398a50147d48c8777e6ff2c4de6825af5f1079b3822e41bf0eacec9c940d |
+| HandBrake-1.2.0-x86_64-Win_GUI.exe | 12.94 | 59fb9b4503dbcaa31fcc19b6a63b1871e53276a5 | 5bae36eeb01d3dd65bf00d9f0634376c89fc17fa05a04ff273ae8c22d1f25239 |
+| HandBrake-1.2.0-x86_64-Win_GUI.zip | 18.2 | be347a991d9e603cb026d8019e8b255bc54c83ce | 0171b65d14bd6b30fc59b2f4f5604e7a3312ca1def34b6bb14112ecd40203a6c |
+| HandBrake-1.2.0-x86_64.flatpak | 22.7 | 28996556ff84529e5e50745fb1e7be6d86042cbf | fd9e3cc2d849bbed281ea0d4914382eefe62550433ef0f83a633925d7ef201d3 |
+| HandBrake-1.2.0.dmg | 19.65 | f6f325bc9f49d9759b69a75b4f7cdfb44a4e045b | 60b396be7953caee896c1abbe8dc96d851c6e0d7be5455eeef69c7073872c53f |
+| HandBrakeCLI-1.2.0-win-x86_64.zip | 16.98 | 7c8ef6e746d193fa4bcdc1f114fa1d62fceb3f47 | bd12c0b5e6e0ef562e0123cae7de9c6988b1d17e7e8f90f48c88931d9dc4d5a9 |
+| HandBrakeCLI-1.2.0.dmg | 16.4 | 0cf497be2c6404061e08d29107ca382239a155d0 | 5267f6c650c76c3aa97419600a56addbbcb172cbf7a426593a6b2952c92137b5 |
+| LibHB-1.2.0-win-x86_64.zip | 17.32 | 776643bef52820db77fb48343d1443ce1bcf164e | b254152fc571e13512e6ec66ffd27626d075063d3d17a2e2e9005e712f845ba8 |
+
+
+## Previous Releases
+
 ### Version (1.1.2)
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
@@ -35,9 +50,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrakeCLI-1.1.2-x86_64.flatpak | 6.88 | c8a43379914599283e28583b143cf9e82ab5a9a0 | 45a00f7480a8611886402f7f87fb5552cf33046d517f36756ff8342b4b4ddae5 |
 | HandBrakeCLI-1.1.2.dmg | 13.01 | 713ba5ce63bfcc29ea8ee22b16ada2c9d750d529 | 0251e0824bb0c24726012ced40be4271d7af0494322997de6a3f6fcb257a3d00 |
 | LibHB-1.1.2-win-x86_64.zip | 15.16 | 8db6fccc4cb81e37112366e5e4014e2c986ecda1 | 63b5876e843604926178829cfa8e2c9d0c6172022e314baa04e4362a45761423 |
-
-
-## Previous Releases
 
 ### Version (1.1.1)
 | File                               | Size (MB) | SHA1                                     | SHA256                                                           |
