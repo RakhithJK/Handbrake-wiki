@@ -55,7 +55,7 @@ Key used by the HandBrake Team to sign official [Releases](https://github.com/Ha
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
-
+<br />
 mQINBFkQpw8BEADpPeQ2xW4rVObYATTXCWGA4nHmaHkDzWMqrHRXspx80KL2Lv/8
 dJgbtYVzldIExKJnxOkielDRH+pLx+B9wHXcaX/ZA++vhz74tcwk9iXiGgKE1bZa
 6fu2sAOBED4OHPik9MHGyHuC/zJUaM6LtEg6GrRio/iR//WFjPo8DFf7mN/1NcrG
@@ -120,7 +120,7 @@ Key ID used for signing: DEADE2F57D42D9C7
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
-
+<br />
 mQINBFlN9oYBEAC2WrDb+u86bQAWfpyidcq9TUJr5dwDLFTjcjPRS9uAqNuDEZzW
 kHnKjdSgpPd/VEzmQ4PjItTF3JEsu4jJMhSJRXSOOxsRk5LCSecJ/HDluSospPJX
 VHxBnnNQFNpwkCkeXE26d1gyyMPSx3cA+cHzqDOQ+ucOpHWxdh48gKc4qrth6TSh
@@ -488,7 +488,7 @@ Key ID used for signing: DC68C9CE6FEC775F
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
-
+<br />
 mQINBFlNhfsBEAC2IbJDCbUoNxgxTOfKr4ZYDYTKcMpSqARtDGqOhD0wQ4MpDqN0
 dU2SBO9o9kCFZhfvjKa4H4NYhl23IBLbCElRa89Ozg1gVT9GsKQbqevNsYD4lvOi
 83A81HrBFiLJ46xyVB03YHSs/VVZ84NGAgLA5HoaWHotY3MfYJHHOvFRy8NTJdYZ
@@ -579,7 +579,7 @@ Key ID used for signing: 27A26119422278AA
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
-
+<br />
 mQINBFme5j8BEADSpYiYxqgRllqN50wPd1hQUWdP2HcmdkTPavY015UhbDWsZka0JELo7RgQ
 m4V4Om9uUNBeNdZ+pmwfqcMyqEtF1TpCY07+v62avNiseLpDGNE1RIpIXgdGDKStM5ouuym4
 uTxdgVdJH57DeJohqOwh6RkXf0r0kR13eGA+8jSCDVCWtahhiC4KfM/TU5iXJiEnWxLBbcqY
@@ -663,7 +663,7 @@ Key ID used for signing: 59CE0AAEA2BF08BD
 <details>
 <summary>Reveal key</summary>
 <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
-
+<br />
 mQENBFqVix0BCACczV7T5IfvEFhvtBkPOPAOa5QRqgZrPLiSL7Dgg1vT9zPvt/v8PfpkYDzD
 B8vPG5lDxbaKwLDL4Bo6atlpjILhUS4lWoFHhHtBbGxsr/u/NWIM+JM/IOWUl/svkLNiIIs4
 vKuzLdnN4aO+JlPLooVV5JSyhAD2usGwc6xXl6pf/hCSCBil3ZeeB4AYv8ModZ8vu4pQXvun
