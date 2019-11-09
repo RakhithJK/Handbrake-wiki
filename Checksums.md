@@ -28,6 +28,7 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | ---| ---| ---| ---|
 | HandBrake-1.3.0-source.tar.bz2 | 16.02 | 1af6cee51d09d3e5207446d811765d7ddf6df0dd | a9a82eb5ca04a793705b3d7d11cefa29946694eeb13b40161446aaca35b31d96 |
 | HandBrake-1.3.0-x86_64-SafeMode-Win_GUI.exe | 12.3 | 1229146f10c85e231f2e0e27c03e63111c76e626 | d40f3d15924049b572813045580714e87d3592f51499958bc3bf25060de887c5 |
+| HandBrake-1.3.0-x86_64-Win_GUI.zip | 16.58 | aff31897c69f21c2feb97f11eb901f053588713d | 676fbd7fcbf4b3994226c5dcdb173e7b338e2c515cda2c7beee0ad6afbdce197 |
 | HandBrake-1.3.0-x86_64-Win_GUI.exe | 12.41 | 59d9731ec4cbfb30a34eda66404a2ea538f805f0 | 389ea825d7f5ff63d7af68daa701c25eee8126732e176686a6c065dad1334df4 |
 | HandBrake-1.3.0-x86_64.flatpak | 22.34 | 7277a23a08fecddaa9f3b0de92ba956cc24dd258 | debd037836c9fa8c8cb6d3d3ea2b4bb0ffb3242001a3d51e827372fe70237ffd |
 | HandBrake-1.3.0.dmg | 19.42 | 8f3fc940578af25ce9c1c6cc2e5f2521725da767 | 6789cdd2054bccb1d623d0ff32e4246d4d4c49c21cec85a7d1ea5922b5075a55 |
