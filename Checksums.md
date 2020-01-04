@@ -22,6 +22,23 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 **If the hashes for any files do not match those listed here and on our website, the files may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
 
 ## Current Release
+### Version (1.3.1)
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| fr.handbrake.ghb-1.3.1-x86_64.flatpak | 22.41 | 78bfe7f83e0e66385f7ef03954875efa7eb96af7 | 118c50369c379efb7cc6bbca7fc9775500f09789f11c9394d4365abf54447829 |
+| fr.handbrake.HandBrakeCLI-1.3.1-x86_64.flatpak | 9.02 | 1b65e9ea2414a1790b4ae5d83aaa79b038677559 | 3599215a7cdb00e473c26e752a9221e57fe440bd6e88da52d883d450f76231f8 |
+| fr.handbrake.plugin.IntelMediaSDK-1.3.1-x86_64.flatpak | 35.27 | 0feb5ead74e0ee366a2f9871896b4a37222e83c5 | 4a18fc49d89501a6744a4ac063d16d499c53632808b0611d0c937778756976e7 |
+| HandBrake-1.3.1-source.tar.bz2 | 16.04 | 213da9cebb19215d6e7ea49ac390ecc9cb6c749f | c005de993af4123babbb60f7d12f6ff46fb7eea26ff0a3556034683901ce2c27 |
+| HandBrake-1.3.1-x86_64-SafeMode-Win_GUI.exe | 12.48 | 4a7c482a44b4575a650800e4720d37494b01d80e | f63347fc9539990f5197976ebf9302fea141cbdd5c95f4ef2f83bdc9b4f49cc3 |
+| HandBrake-1.3.1-x86_64-Win_GUI.exe | 12.91 | 5071f54561c7b67c9078056215648781abcc956b | 2f31591fd581240b466e32e27953afa34bf8ed86ef0767e2291956955691a4c3 |
+| HandBrake-1.3.1-x86_64-Win_GUI.zip | 17.56 | 02f035c6219455f29890c8fe430e49bb0af0f5e0 | 28aeadce4be7211d378659747a2ac1f171d8788e390ee90c99c4eb7dc5f31674 |
+| HandBrake-1.3.1.dmg | 20.2 | 53f7a7bf0d1c55dddcc0363899c85b8071867ebc | b713ebd6185a4836129fa520c94a2197325f5132d80056358b258ab5f471a26e |
+| HandBrakeCLI-1.3.1-win-x86_64.zip | 16.02 | 36fa5d495dc8207f8cdf4e7e9ae2d9e0e2ccac16 | 489f9b2aa3f3127e71c90e7e216e52e5288ea9ad317ec5628f06f85d7c37a1e7 |
+| HandBrakeCLI-1.3.1.dmg | 16.93 | 0b652a5c62ae6634c631efa40da56076051cecf7 | 5b00ed09c9e429d22e7ddda6afc1b3408535cbb0fa29e6d8a4c75ddbb2c27fd0 |
+| LibHB-1.3.1-win-x86_64.zip | 16.45 | 99c2bb2191ee7386ddb4c0ed3790f4d18e9a3c73 | 4b2d0022f672f7aebdc9a60fac1b34b0c4ea693c9d82e26e64a325576adbda6a |
+
+
+## Previous Releases
 
 ### Version (1.3.0)
 | File | Size | SHA1 | SHA256 |
@@ -37,9 +54,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrakeCLI-1.3.0.dmg | 16.17 | 501306b2e26ddef982f11b68f06f7761b83873bd | 358c45b2f2c6cd900f2a0c33af30ddf9d44ca8ceaf9aa374614be7febcdff5ec |
 | LibHB-1.3.0-win-x86_64.zip | 15.41 | 11a557a449b666e4d23283dbee9cb151b98bc88e | 12d3922802474a0880744564d6c607c8eb178277644d21c1fb596dac07e4e44f |
 | Plugin.HandBrake.IntelMediaSDK-1.3.0-x86_64.flatpak | 35.28 | 41e25aa888bebae94c4ea75a9f13056bccfcbf31 | 0d85c61f04d18c24d164905548317fcdf9440ec7a7435df4f65da729718e2a08 |
-
-
-## Previous Releases
 
 ### Version (1.2.2)
 | File | Size | SHA1 | SHA256 |
