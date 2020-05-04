@@ -26,9 +26,10 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.3.2-source.tar.bz2 | 16.03 | 25b3aaa821c44b91b7658cd3a3b8d6cc2aeeec6c | ec6feba97f426d545ec56cf1472eae5795d768bc1aec56c23bb76fc6b2ecf270 |
-| HandBrake-1.3.2-x86_64-Win_GUI.exe | 12.91 | a4d523d2376b3b114f65535a34a34ba7a067cd95 | 24f83cd4e6f921e9996599528717871ae705e758ed9a8d7dfee4c823c18b1133 |
-| HandBrake-1.3.2-x86_64-Win_GUI.SafeMode.exe | 12.8 | b7ca14fb4dc6418dab776a1e949923ad59b16505 | 3488788a3668d6bdae2a79906f77e64e4052a8ec3e842631decd9e588031ed8a |
-| HandBrake-1.3.2-x86_64-Win_GUI.zip | 30.18 | 338356ffb8278a414b2c745ee89fbcc4020d6914 | 3a01b6fa2588eeec80a6038af57feb20b8525bfc6090cbc1885d40c49310e139 |
+| HandBrake-1.3.2-x86_64-Win_GUI.exe | 12.91 | 3c1348aadc0bf0b3edb11347155b52e19a91b782 | 78f6727431f9065eb3dc3297ffd5cf2822d8866e51a8915a3853633bcea32e8f |
+| HandBrake-1.3.2-x86_64-Win_GUI.SafeMode.exe | 12.81 | 2184b8133dc3612bf4d55966b31911d1503e1b35 | 167502b51e40d9b3fdd2edda4f1b157a4dc7cde21a840baeecc1694afd51e49d |
+| HandBrake-1.3.2-x86_64-Win_GUI.zip | 17.7 | 1c8a6e4dbbbb0a9882f9d0954f102ff30145b5fc | f2adb660ff24aa62677aa5a67421e76e0c588f9a5567f74819384a351574d2e7 |
+| HandBrake-1.3.2-x86_64-Win_GUI.SafeMode.zip | 17.82 | 58565cd973e34b1b69093d90d62129ab8e62f387 | 8623c6e5dc76d209e478392e847bb8b2c24059388090d51c0fb18804c661c313 |
 | HandBrake-1.3.2-x86_64.flatpak | 22.34 | ff9cb105abcfa7ef3982943bdd4010e7b33dbf31 | a2dfa3bc39e246e9b15d08082322101eabc0b81008d05eda273140ff110bbb07 |
 | HandBrake-1.3.2.dmg | 20.25 | f2c65dd18c9ba8685885d35a0ce26909a702a557 | f3680d583a1c1ebe0e0a5316ee22d224d48cb3c5be14af29b14ab9071744184f |
 | HandBrakeCLI-1.3.2-win-x86_64.SafeMode.zip | 15.9 | afc372b436eb44ceaa5438d38c9c7542175bd4c5 | 153fb576503d93bfece49aa8487a3f4c074dd3ea4c801a06432ac93635bc2f4f |
