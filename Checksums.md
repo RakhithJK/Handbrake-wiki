@@ -23,12 +23,13 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 
 ## Current Release
 
+
 ### Version (1.3.3)
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.3.3-source.tar.bz2 | 16.03 | efde8bb8cbb455e92f8bafd0f092db81c4b5827b | 218a37d95f48b5e7cf285363d3ab16c314d97627a7a710cab3758902ae877f85 |
-| HandBrake-1.3.3-x86_64-Win_GUI.exe | 12.91 | 7c01135e341b5f658c8c6f7bdd405fb19fc91254 | a7c28aeec4ff33fe5c58d5a61f3acc20b1e2e941a923b27b788cd8d48bd2aadc |
-| HandBrake-1.3.3-x86_64-Win_GUI.SafeMode.exe | 12.8 | 3052a1d38fc22690e42cf82da1d753c3a1da5d8a | aca6c59173299ee15c4e76ded697d4b6c90b1fd855770b44ca38c42ae2951480 |
+| HandBrake-1.3.3-x86_64-Win_GUI.exe | 12.91 | 1b7c7a0206f8a8d3a61123bdd94b5a9df15174a3 | cd71e213d3d334215aa7b56199b62189bf1b64a75c04ea17dc2a7d0469c0aab6 |
+| HandBrake-1.3.3-x86_64-Win_GUI.SafeMode.exe | 12.8 | 34f728b528307ab18d810225adaa544b413c07b1 | f731ee03f00bfbdb08d03adea6dc6a643bf055f3e3c08cd5cffca077dfc92824 |
 | HandBrake-1.3.3-x86_64-Win_GUI.SafeMode.zip | 17.17 | 617599295e70412a0f2ac4c1f8f8282937c5e584 | d35eda8960b92164315c3170edad67b14b69079f347279eb548b2ebde6436e8d |
 | HandBrake-1.3.3-x86_64-Win_GUI.zip | 17.3 | d0621e934fe101eaeb43c80f494323b27113efb8 | 412e6c861d8363ea86f4beda8da484adb99c158c203a5cf23db9354549ec33b5 |
 | HandBrake-1.3.3-x86_64.flatpak | 22.42 | d1d039ba95f5ed9756525eb37ccaad27242d5518 | 8b805312ab93b4d2257045b1adea8117d2262d1af5639c6c240cca1f244ec2c2 |
@@ -39,6 +40,7 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrakeCLI-1.3.3.dmg | 16.95 | da0054e5fa9a0abff598a660d3c994ecbb1fb6b8 | 833b6cd98a2e43121d1de2ba0d7d9b4dbf76244967d3cdbaa2fc3cd1a3500f0a |
 | LibHB-1.3.3-win-x86_64.zip | 16.45 | 8d11cff4f848f6f5544697656af0a8adcb73d50d | 483082d2372f52d4f0b2fd2388c708c57da9caec41162913b5f49cd76f8904f5 |
 | Plugin.HandBrake.IntelMediaSDK-1.3.3-x86_64.flatpak | 51.14 | 15a24141eba2607ad6315c64b52c096961c46363 | 179bcc459e4a0a0004509ed98261da653aa4087c82b785ff7d3646fddd201f2c |
+
 
 ## Previous Releases
 
