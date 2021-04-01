@@ -11,4 +11,9 @@ Old versions are available from the Github Releases page
 | 10.11         | Currently Supported  |
 | 10.10         | Currently Supported  |
 | 10.9          | Currently Supported  |
+| 10.8          | Currently Supported  |
+| 10.7          | Currently Supported  |
+| 10.6          | Currently Supported  |
+| 10.5          | Currently Supported  |
+| 10.4          | Currently Supported  |
 
