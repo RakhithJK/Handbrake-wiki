@@ -25,6 +25,7 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 ### Version (1.4.0)
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
+| HandBrake-1.4.0-source.tar.bz2 | 15.23 | 847c330a6699d69d209659ca781e6f79f52f0735 | a871e5d95eaf616f27454d4d4eed3b4bea6be4ffd21f0dc16ed845132e0621b2 |
 | HandBrake-1.4.0-x86_64-Win_GUI.exe | 15.5 | a416d678b026f9082ae7deafddab69df42fad268 | ec42cae654806a2d347caada08c8f955b364322eb1d1328913be219d9b751754 |
 | HandBrake-1.4.0-x86_64.flatpak | 23.66 | bc1f77cada03139d9e0a699cfc016cf0595c8fae | b98cd67d10dcc0a060c76c6bf0e4f15b9c6204a3d590b71f93aedcd1779bfea9 |
 | HandBrake-1.4.0.dmg | 36.58 | e74f1ecba2c118065dd5ee426dd17c1383d44a55 | 1dd4d6be8b25e12fd4fbc370dc084a0855243f3d8e157611ba7dcdba3a41d1a6 |
