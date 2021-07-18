@@ -22,7 +22,19 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 **If the hashes for any files do not match those listed here and on our website, the files may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
 
 ## Current Release
+### Version (1.4.0)
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.4.0-x86_64-Win_GUI.exe | 15.5 | a416d678b026f9082ae7deafddab69df42fad268 | ec42cae654806a2d347caada08c8f955b364322eb1d1328913be219d9b751754 |
+| HandBrake-1.4.0-x86_64.flatpak | 23.66 | bc1f77cada03139d9e0a699cfc016cf0595c8fae | b98cd67d10dcc0a060c76c6bf0e4f15b9c6204a3d590b71f93aedcd1779bfea9 |
+| HandBrake-1.4.0.dmg | 36.58 | e74f1ecba2c118065dd5ee426dd17c1383d44a55 | 1dd4d6be8b25e12fd4fbc370dc084a0855243f3d8e157611ba7dcdba3a41d1a6 |
+| HandBrakeCLI-1.4.0-win-x86_64.zip | 18.25 | ee8b7b4d139984a358271e30df5d3643e6363ef2 | 5baaa7dcac9d353ffcb8c4516a6674823ab06361e0153454f5c6ad664e25870c |
+| HandBrakeCLI-1.4.0-x86_64.flatpak | 9.69 | 9a0d56e4c771feb2d5e0ba3a6bc379960186e196 | b7b6331edc2630f04e4fcd3d0120db990cfa0790ee49fb1e3b0c2a7320ea1904 |
+| HandBrakeCLI-1.4.0.dmg | 32.35 | 674eef45d7f053494ca9fb0e090a455a66fc7e74 | 17e51c52f29142b94c49c744afe2b4b80c20176309cd04a2234b79f10f35f1f5 |
+| Plugin.HandBrake.IntelMediaSDK-1.4.0-x86_64.flatpak | 49.67 | 56aba2a5d5712ac0d5f8ba73aa7a32ec1d37f640 | 8e4704d47a5f3e7683075bfb97b441edb89f743bebeddd35d751a11be392add5 |
 
+
+## Previous Releases
 
 ### Version (1.3.3)
 | File | Size | SHA1 | SHA256 |
@@ -41,8 +53,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | LibHB-1.3.3-win-x86_64.zip | 16.45 | 8d11cff4f848f6f5544697656af0a8adcb73d50d | 483082d2372f52d4f0b2fd2388c708c57da9caec41162913b5f49cd76f8904f5 |
 | Plugin.HandBrake.IntelMediaSDK-1.3.3-x86_64.flatpak | 51.14 | 15a24141eba2607ad6315c64b52c096961c46363 | 179bcc459e4a0a0004509ed98261da653aa4087c82b785ff7d3646fddd201f2c |
 
-
-## Previous Releases
 
 ### Version (1.3.2)
 | File | Size | SHA1 | SHA256 |
