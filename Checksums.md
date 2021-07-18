@@ -26,8 +26,8 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
 | HandBrake-1.4.0-source.tar.bz2 | 15.23 | 847c330a6699d69d209659ca781e6f79f52f0735 | a871e5d95eaf616f27454d4d4eed3b4bea6be4ffd21f0dc16ed845132e0621b2 |
-| HandBrake-1.4.0-x86_64-Win_GUI.exe | 15.5 | 78eb094ae16f10a7dc914ca4a75569636d9923d4 | 1f1d1bad13125a80bb05239f586ba073a0fe270fb425a5d0b622f1b057904543 |
-| HandBrake-1.4.0-x86_64-Win_GUI.zip | 67.84 | 93560ae484064970a1c36b8c3003ca27c59ed1cb | 5eed6a0f34b1bfafeefa81b34c1c855aa2e3104ac98c838fa2fa230ad772cfea |
+| HandBrake-1.4.0-x86_64-Win_GUI.exe | 15.5 | de1a5f9d69a6193e79a4baf434f435c31fbcdd99 | 6a11ff32517b79a39c28bd969b0f93ac28336d338311c983fee7aac0bfbb84ca |
+| HandBrake-1.4.0-x86_64-Win_GUI.zip | 21.72 | 149166af5a82bb0b7586719fd597d4ac1208b72d | 7b9a9a5179c4139083652f166e23766d7a0f6cbe7cb239a6852956bcb48a6512 |
 | HandBrake-1.4.0-x86_64.flatpak | 23.66 | bc1f77cada03139d9e0a699cfc016cf0595c8fae | b98cd67d10dcc0a060c76c6bf0e4f15b9c6204a3d590b71f93aedcd1779bfea9 |
 | HandBrake-1.4.0.dmg | 36.58 | e74f1ecba2c118065dd5ee426dd17c1383d44a55 | 1dd4d6be8b25e12fd4fbc370dc084a0855243f3d8e157611ba7dcdba3a41d1a6 |
 | HandBrakeCLI-1.4.0-win-aarch64.zip | 14.58 | 3fbd8888e99fa48daff1989b0b5587faa6c052c0 | 8dfe6096ac3b7bf0197446d1bafe97e81d72fb3d0b4d3c80ee75ab03c64b138c |
