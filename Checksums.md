@@ -22,6 +22,25 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 **If the hashes for any files do not match those listed here and on our website, the files may be corrupt or tampered with. You should delete any files with non-matching hashes, then download from https://handbrake.fr/downloads.php and verify again.**
 
 ## Current Release
+
+### Version (1.4.2)
+| File | Size | SHA1 | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.4.2-arm64-Win_GUI.exe | 11.36 | 29b6e9b1f8b15c3e0518bd19bd817a7b5594cbff | a705547e7cb52ab87a1d9a2ea9419e738daa0285a9f11c66a91db82c5da4e457 |
+| HandBrake-1.4.2-arm64-Win_GUI.zip | 16.27 | b64840cf1eb87804e9f633299db02684de6e9646 | 1d611c5b0af6b27635081918987fef2166b45a323e98fa2b175e9978708ca667 |
+| HandBrake-1.4.2-source.tar.bz2 | 15.25 | 105bdbd661aab2f5629967882249e08528316154 | 8b8e81b7dc2e3180f4e94e8c7f5337d2953f69f0d983ccce48096e29ed6dfb61 |
+| HandBrake-1.4.2-x86_64-Win_GUI.exe | 15.53 | 3ce54bff15b9cf4766a713e3b83eb61dbb062ee4 | 8c5a719a2a6677b37641e39853f17ef6134345fa21fd89bac50566b132f48306 |
+| HandBrake-1.4.2-x86_64-Win_GUI.zip | 21.41 | 8a13d01be3721ce5156061236811943fc113f7c5 | 5008b5494b57b637d3a3102acfa6a62ad6d6147f346ef016b88243c56ea043c7 |
+| HandBrake-1.4.2-x86_64.flatpak | 23.68 | 9d7f1d9e0922193b01114a02eb44b3e64df12166 | e3e25fd7c7b0861813e7c5510b03323a07b7e6f0c858e18fcaf106cf0b6e9fe3 |
+| HandBrake-1.4.2.dmg | 36.84 | 8d2c64f5554fd4f69d9dde6e91a124ae1474c4fb | e43598496f2fab5bae107ea4795801a4ff48996e53d0bbcddd3ce85b1a78ccaa |
+| HandBrakeCLI-1.4.2-win-aarch64.zip | 14.58 | 698a6a7fdd32d7a172812b84ea28a05fa50a2864 | fd7495198ffe7abd66bbd5deb8a7b38283195aeb14fbc51c682bf45a8ad6fa19 |
+| HandBrakeCLI-1.4.2-win-x86_64.zip | 18.25 | 7f559fcfb8767f8a327256ecf7c9b8273e7cd674 | 399ef8d7709204a74f270bcf7cd3833ea14557879dd384a610482f5d421b023e |
+| HandBrakeCLI-1.4.2-x86_64.flatpak | 9.7 | b099cea034a38f31aa43752beaee58f8f2482e7f | f24dfcd932e0b7d9216037d0a25103ec41b8b41bce3002abc862ef94a1544030 |
+| HandBrakeCLI-1.4.2.dmg | 32.48 | 6693f82a8998ff7d666bbaad41ac41213831bac1 | 0e1a014861cd12dd7b15f255700a0bb3809dd397881d3859129ce075be0aa6f0 |
+| Plugin.HandBrake.IntelMediaSDK-1.4.2-x86_64.flatpak | 49.67 | 2db05d67e2d0a06ef4cd36f7566cd4b471564847 | 796328e4d1c2aeec690da47ec142d119de0f4a4919cbca7b33a3a4e77449bf9c |
+
+## Previous Releases
+
 ### Version (1.4.1)
 | File | Size | SHA1 | SHA256 |
 | ---| ---| ---| ---|
@@ -37,8 +56,6 @@ The SHA1 for each file will be printed, followed by the SHA256 for each file.
 | HandBrakeCLI-1.4.1-x86_64.flatpak | 9.63 | ad87218f0732281aa96953a872778ac81f492854 | 7203aafa035b49d6c087961d86e442cb5bf641f5e46c132ddff59eda2a60736b |
 | HandBrakeCLI-1.4.1.dmg | 32.35 | d0f7ba099d13386a97055442ed1a07f3aa10dc76 | 4af30f966856469a360b9b3ae413ce01927cc57687f9892dbbc173ca13ca3b72 |
 | Plugin.HandBrake.IntelMediaSDK-1.4.1-x86_64.flatpak | 49.67 | e1b3fabb963c3dedc6386d9d4625e41f386cf555 | e105e0e732bc3bf8aa31b6ad97a87c3ac3b4a8982090a98d45d221f515fd2938 |
-
-## Previous Releases
 
 ### Version (1.4.0)
 | File | Size | SHA1 | SHA256 |
