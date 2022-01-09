@@ -32,17 +32,15 @@ certUtil -hashfile <filename> SHA256
 Replacing the filename with the specific filename you wish to find the hash for.
 
 
-
 ## Current Release
 
 ### Version (1.5.0)
 | File | Size | SHA256 |
 | ---| ---| ---|
-| HandBrake-1.5.0-arm64-Win_GUI.exe | 15.25 | 9e0d3481e5b1f2b3434959890430367471bb1cad83492752134b56106c3508b0 |
+| HandBrake-1.5.0-arm64-Win_GUI.exe | 15.25 | 42a8520911a70d46fcd9b4358a79d69cf36f71044a64df483daf01ec66ad2c58 |
 | HandBrake-1.5.0-arm64-Win_GUI.zip | 22.8 | a3d67b951b20a378095f1c3cedc3e451d8ce7043fed37672a44789f3ead575c3 |
-| HandBrake-1.5.0-source.tar.bz2 | 15.34 | ff8e87efdb3926558a5635f9118b301062b48c9e506589bd243c1e0a97b8e86c |
-| HandBrake-1.5.0-source.tar.gz | 27.36 | 5e14cd80fb8b15f5bddbe3221fb904d4b449a888e3e69197930c2339885adcfb |
-| HandBrake-1.5.0-x86_64-Win_GUI.exe | 19.49 | 5521a62205b4a934ae792f2a309d55de6add4f9e6ee9663bb1bd1b912a018961 |
+| HandBrake-1.5.0-source.tar.bz2 | 25.94 | 72d79e8e0c6759f5855407c9b4de4273eb5fb6cc363238bf8d9a992c4b2a3c1a |
+| HandBrake-1.5.0-x86_64-Win_GUI.exe | 19.49 | a9be0870c7da8f4653d450db2a3d2812663cd6605fb544467aba9fbf9f07f7aa |
 | HandBrake-1.5.0-x86_64-Win_GUI.zip | 27.45 | e98fc3b1bc655a28195625b9c65c31f205667b2ebeea13e5b1fd7ab650a154ea |
 | HandBrake-1.5.0-x86_64.flatpak | 23.2 | 83166499b5953a0ef51ab4e79af9efbda2e29edc77f5ab1c30ee9bc116273b26 |
 | HandBrake-1.5.0.dmg | 35.91 | 2f6fb11ae55f18e8b146ba36dde06f52d2f9f09e4236b17f8a1d3f6af64a76e8 |
