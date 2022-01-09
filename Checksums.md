@@ -35,6 +35,25 @@ Replacing the filename with the specific filename you wish to find the hash for.
 
 ## Current Release
 
+### Version (1.5.0)
+| File | Size | SHA256 |
+| ---| ---| ---| ---|
+| HandBrake-1.5.0-arm64-Win_GUI.exe | 15.25 | 9e0d3481e5b1f2b3434959890430367471bb1cad83492752134b56106c3508b0 |
+| HandBrake-1.5.0-arm64-Win_GUI.zip | 22.8 | a3d67b951b20a378095f1c3cedc3e451d8ce7043fed37672a44789f3ead575c3 |
+| HandBrake-1.5.0-source.tar.bz2 | 15.34 | ff8e87efdb3926558a5635f9118b301062b48c9e506589bd243c1e0a97b8e86c |
+| HandBrake-1.5.0-source.tar.gz | 27.36 | 5e14cd80fb8b15f5bddbe3221fb904d4b449a888e3e69197930c2339885adcfb |
+| HandBrake-1.5.0-x86_64-Win_GUI.exe | 19.49 | 5521a62205b4a934ae792f2a309d55de6add4f9e6ee9663bb1bd1b912a018961 |
+| HandBrake-1.5.0-x86_64-Win_GUI.zip | 27.45 | e98fc3b1bc655a28195625b9c65c31f205667b2ebeea13e5b1fd7ab650a154ea |
+| HandBrake-1.5.0-x86_64.flatpak | 23.2 | 83166499b5953a0ef51ab4e79af9efbda2e29edc77f5ab1c30ee9bc116273b26 |
+| HandBrake-1.5.0.dmg | 35.91 | 2f6fb11ae55f18e8b146ba36dde06f52d2f9f09e4236b17f8a1d3f6af64a76e8 |
+| HandBrakeCLI-1.5.0-win-aarch64.zip | 14.64 | dbf2c4fefd435a3d057e6f501046fc6860aad399490382f29145efcf99cacd32 |
+| HandBrakeCLI-1.5.0-win-x86_64.zip | 17.45 | 48b1a4f3564c508579af4f50b47248ebf53e648a32ef784e1fd62cf2e653db71 |
+| HandBrakeCLI-1.5.0-x86_64.flatpak | 9.79 | d93c9ccd9ff260df02d81b03bb8f52262007832097badd684611d6e69b34e179 |
+| HandBrakeCLI-1.5.0.dmg | 32.06 | 3d484ccc900d0f96c10157eb32741c4567e7f32b2073e7f0a3963a00a3a9e5a6 |
+| Plugin.HandBrake.IntelMediaSDK-1.5.0-x86_64.flatpak | 58.31 | 08cbbb7ee7f9e5be0a24d8ffbfd59f8d93d1bb9507b9e78cdc9065bea7247339 |
+
+## Previous Releases
+
 ### Version (1.4.2)
 | File | Size | SHA256 |
 | ---| ---| ---|
@@ -50,8 +69,6 @@ Replacing the filename with the specific filename you wish to find the hash for.
 | HandBrakeCLI-1.4.2-x86_64.flatpak | 9.7 | f24dfcd932e0b7d9216037d0a25103ec41b8b41bce3002abc862ef94a1544030 |
 | HandBrakeCLI-1.4.2.dmg | 32.48 | 0e1a014861cd12dd7b15f255700a0bb3809dd397881d3859129ce075be0aa6f0 |
 | Plugin.HandBrake.IntelMediaSDK-1.4.2-x86_64.flatpak | 49.67 | 796328e4d1c2aeec690da47ec142d119de0f4a4919cbca7b33a3a4e77449bf9c |
-
-## Previous Releases
 
 ### Version (1.4.1)
 | File | Size | SHA256 |
