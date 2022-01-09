@@ -37,7 +37,7 @@ Replacing the filename with the specific filename you wish to find the hash for.
 
 ### Version (1.5.0)
 | File | Size | SHA256 |
-| ---| ---| ---| ---|
+| ---| ---| ---|
 | HandBrake-1.5.0-arm64-Win_GUI.exe | 15.25 | 9e0d3481e5b1f2b3434959890430367471bb1cad83492752134b56106c3508b0 |
 | HandBrake-1.5.0-arm64-Win_GUI.zip | 22.8 | a3d67b951b20a378095f1c3cedc3e451d8ce7043fed37672a44789f3ead575c3 |
 | HandBrake-1.5.0-source.tar.bz2 | 15.34 | ff8e87efdb3926558a5635f9118b301062b48c9e506589bd243c1e0a97b8e86c |
