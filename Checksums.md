@@ -33,6 +33,24 @@ Replacing the filename with the specific filename you wish to find the hash for.
 
 
 ## Current Release
+### Version (1.5.1)
+| File | Size | SHA256 |
+| ---| ---| ---|
+| HandBrake-1.5.1-arm64-Win_GUI.exe | 15.27 | b5468cfb3e8d469e72a68a28f57624ad287e5b22c7407582c1aed4193ea70299 |
+| HandBrake-1.5.1-arm64-Win_GUI.zip | 22.8 | dc9e8395945778d6819bd0063ab21bd666dbc9abfd93130d4900652c80c36350 |
+| HandBrake-1.5.1-source.tar.bz2 | 15.39 | 3999fe06d5309c819799a73a968a8ec3840e7840c2b64af8f5cdb7fd8c9430f0 |
+| HandBrake-1.5.1-x86_64-Win_GUI.exe | 19.49 | 01167a96a338cb394ee2e339545379cd156dfe4b1837af64764a08279f8af33e |
+| HandBrake-1.5.1-x86_64-Win_GUI.zip | 27.44 | 69e499d88df6f77a5ce663c8f5ae3ff2e6210a908152a7c437d10bca7294d0be |
+| HandBrake-1.5.1-x86_64.flatpak | 23.26 | 23a459b3dd02c4ccd9c53c4c1585a452e7557d6011be276740afa6634a2ca66f |
+| HandBrake-1.5.1.dmg | 35.91 | 767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f |
+| HandBrakeCLI-1.5.1-win-aarch64.zip | 14.64 | dfcc82e756ddbc67ba3d71fcf67377d06f21aadf1c54a8413797e6398294d49d |
+| HandBrakeCLI-1.5.1-win-x86_64.zip | 17.45 | 496e91f1341095305e46f331463281e93fabed926381d28b79a2bd3785c49954 |
+| HandBrakeCLI-1.5.1-x86_64.flatpak | 9.8 | 61ec9503d8e656bc16d1d5e220497491eb9ae4dc484a51c4d79f365b164ba509 |
+| HandBrakeCLI-1.5.1.dmg | 32.06 | 328ad1fbacb855b644b63899450c004cb18e5e819ad519549c4c4bc863a60f90 |
+| Plugin.HandBrake.IntelMediaSDK-1.5.1-x86_64.flatpak | 58.31 | 61768dce2776df0220d18477e2f5bda8e7512583bff6e994157e691f532efe46 |
+
+
+## Previous Releases
 
 ### Version (1.5.0)
 | File | Size | SHA256 |
@@ -49,8 +67,6 @@ Replacing the filename with the specific filename you wish to find the hash for.
 | HandBrakeCLI-1.5.0-x86_64.flatpak | 9.79 | d93c9ccd9ff260df02d81b03bb8f52262007832097badd684611d6e69b34e179 |
 | HandBrakeCLI-1.5.0.dmg | 32.06 | 3d484ccc900d0f96c10157eb32741c4567e7f32b2073e7f0a3963a00a3a9e5a6 |
 | Plugin.HandBrake.IntelMediaSDK-1.5.0-x86_64.flatpak | 58.31 | 08cbbb7ee7f9e5be0a24d8ffbfd59f8d93d1bb9507b9e78cdc9065bea7247339 |
-
-## Previous Releases
 
 ### Version (1.4.2)
 | File | Size | SHA256 |
